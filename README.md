@@ -137,6 +137,8 @@ Events:          <none>
 
 Необходимо поменять в манифесте do curl auth-db на do curl auth-db.data
 
+[task.yaml](https://github.com/smabramov/K8s-15/blob/7157ee422c92ec128824e44286c70dabbe8554c0/files/task.yaml)
+
 Применяю изменения:
 
 ```
